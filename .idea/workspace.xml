@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e290efd7-79fe-4ae1-b2ff-de9f2e82cc1a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2jb0DaAvewSWVbfgWa8GrcMu6Z0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1 comment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1-command.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10-input functions addition .executor&quot;: &quot;Run&quot;,
+    &quot;Python.10-input functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11-substraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12-multiplication.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13-comparison operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13-division.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14-Assignment operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15- Bitwise operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16-logical operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17-datatypes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17-membership operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18-Arithmetic operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18-identity operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19-string index.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2-variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20- string slicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21- string concatenate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22-string escapecharacters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23-string length.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24-lower.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25-string strip .executor&quot;: &quot;Run&quot;,
+    &quot;Python.26-split.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27-string replace.executor&quot;: &quot;Run&quot;,
+    &quot;Python.28-DICT.PY.executor&quot;: &quot;Run&quot;,
+    &quot;Python.29-string format.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3-Type.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3-types of variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.30.index numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.31 elif .executor&quot;: &quot;Run&quot;,
+    &quot;Python.31 if..else.executor&quot;: &quot;Run&quot;,
+    &quot;Python.33 elif with else .executor&quot;: &quot;Run&quot;,
+    &quot;Python.34 short hand if else.executor&quot;: &quot;Run&quot;,
+    &quot;Python.35  if else 3 condition .executor&quot;: &quot;Run&quot;,
+    &quot;Python.36 AND condition .executor&quot;: &quot;Run&quot;,
+    &quot;Python.37 if with or .executor&quot;: &quot;Run&quot;,
+    &quot;Python.38 if with NOT .executor&quot;: &quot;Run&quot;,
+    &quot;Python.39 nested if .executor&quot;: &quot;Run&quot;,
+    &quot;Python.4-Quotes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4-string datatype.executor&quot;: &quot;Run&quot;,
+    &quot;Python.40 past statement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.41 while loop .executor&quot;: &quot;Run&quot;,
+    &quot;Python.42  break  the while loop .executor&quot;: &quot;Run&quot;,
+    &quot;Python.43 continue statement .executor&quot;: &quot;Run&quot;,
+    &quot;Python.44 while with else statement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.45 for loop .executor&quot;: &quot;Run&quot;,
+    &quot;Python.46 for loop with break .executor&quot;: &quot;Run&quot;,
+    &quot;Python.47  for loop with continue statement .executor&quot;: &quot;Run&quot;,
+    &quot;Python.48. adjective.executor&quot;: &quot;Run&quot;,
+    &quot;Python.49 lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5-legal variable names.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5-variable names.executor&quot;: &quot;Run&quot;,
+    &quot;Python.50 lambda filter .executor&quot;: &quot;Run&quot;,
+    &quot;Python.51 lambda map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.53 python function .executor&quot;: &quot;Run&quot;,
+    &quot;Python.54 lamda argument .executor&quot;: &quot;Run&quot;,
+    &quot;Python.55 lamda args keyboard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.56 arbitory arguments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.57 function with keyword arguments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.58 function for loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.59 return function .executor&quot;: &quot;Run&quot;,
+    &quot;Python.6-camelcase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.60 global variables .executor&quot;: &quot;Run&quot;,
+    &quot;Python.61 local variable .executor&quot;: &quot;Run&quot;,
+    &quot;Python.62 recursion .executor&quot;: &quot;Run&quot;,
+    &quot;Python.63 factorial .executor&quot;: &quot;Run&quot;,
+    &quot;Python.7-pascal case.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8-snake case.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9-Output Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9-concatenate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List 12 comprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List 13 sorting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List 14 copy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List 3 access.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List 5 changes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List10 del.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List11 loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List15 extend.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List16 join .executor&quot;: &quot;Run&quot;,
+    &quot;Python.List17 clear.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List18  comprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List4 slicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List6 append.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List7 insert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List8 remove.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List9 pop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Substraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Swap.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T22.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T23.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T25.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T26.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T27.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T28.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T29.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T30.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T31.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T32.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T33.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T34.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T35.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T36.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T37.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T38.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T39.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T40 .executor&quot;: &quot;Run&quot;,
+    &quot;Python.T41.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T42.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T43.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T44.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T7.p.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tule delete.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple 1 .executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple access.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple as a list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple datatype.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple insert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple join .executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple remove.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple slice .executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple unpacking .executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple update.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple whilw loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.addition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.area.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictioanary access key.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictioanary change.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictioanary popitem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictioanry del keyword.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionaries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary access.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary add.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary clear .executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary copy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary keys .executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary length.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary nested .executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary nested forloop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary remove.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary update.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary using get.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary value.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary valueforloop .executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionaryy items .executor&quot;: &quot;Run&quot;,
+    &quot;Python.division.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambda reduce .executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiplication.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set access.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set add.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set and operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set clear.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set constructore.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set diff.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set discard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set joining tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set pop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set remove.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set symmetric set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set update.executor&quot;: &quot;Run&quot;,
+    &quot;Python.setinterscetion .executor&quot;: &quot;Run&quot;,
+    &quot;Python.setjoin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.setjoin2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.setloop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sets.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nayan&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e290efd7-79fe-4ae1-b2ff-de9f2e82cc1a" name="Changes" comment="" />
+      <created>1721640351144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721640351144</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/52 lambda reduce .py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
